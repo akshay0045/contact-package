@@ -19,7 +19,9 @@
     "extra": {
         "laravel": {
             "providers": [
+
                 "Akshay\\Contact\\ContactServiceProvider"
+                
             ]
         }
     }
